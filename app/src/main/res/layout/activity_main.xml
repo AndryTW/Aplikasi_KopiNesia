@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@mipmap/bck"
+    android:weightSum="1">
+
+    <TextView
+        android:text="Selamat Datang di KopiNesia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textStyle="bold"/>
+
+    <Button
+        android:text="Order Kopi"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_order"
+        android:padding="@dimen/activity_vertical_margin"
+        android:layout_margin="5dp"/>
+
+    <Button
+        android:text="Lokasi kopinesia"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_lokasi"
+        android:padding="@dimen/activity_vertical_margin"
+        android:layout_margin="5dp"/>
+
+    <Button
+        android:text="Filosofi kopi"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_filkop"
+        android:padding="@dimen/activity_vertical_margin"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"/>
+
+    <Button
+        android:text="Tentang"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_tentang"
+        android:padding="@dimen/activity_vertical_margin"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"/>
+
+    <Button
+        android:text="Keluar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnkeluar"
+        android:padding="@dimen/activity_vertical_margin"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"/>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KopiNesia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="filkp">
+          Filosofi kopi diibarat suatu jenis kopi yang terbagi menjadi dua macam yaitu,
+          kopi dengan kualitas baik (Kopi Arabika) dan kopi dengan kualitas sedang (Kopi Robusta)
+          begitu juga dengan hidup ini bila kita menjalaninya dengan baik maka hasilnya akan baik
+          dan bila kita menjalani hidup ini dengan biasa-biasa saja maka hasil yang kita dapat juga
+          biasa saja tinggal kita mau memilih jalan hidup yang bagaimana.
+    </string>
+
+    <string name="ttg">
+          KopiNesia berdiri sejak tahun 2016, Aplikasi KopiNesia ini ditujukan agar mempermudah para
+          pecinta kopi untuk menikmati secangkir kopi, tanpa harus datang kelokasi, bila ingin datang
+          langsung ke lokasi tempat ngopi kami, kami berdomisili di Kota Tawangmangu Kabupaten Karanganyar,
+          provinsi Jawa Tengah. Untuk pengorderan kopi sendiri, kami hanya melayani order kopi di daerah
+          se-Karesidenan Surakarta saja, dan Bagi anda yang ingin nongkrong dan Have, langsung saja
+          datang ke lokasi kami."
+    </string>
+</resources>
